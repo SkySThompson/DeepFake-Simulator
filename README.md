@@ -93,9 +93,11 @@ g++ -std=c++17 controllerMain.cpp -o controller
 4. Add tests if applicable
 5. Submit a pull request
 
-## License
+## Project Focus
 
 This project is part of the CS Girlies Hackathon 2024. See individual file headers for specific licensing information.
+"How can you replace AI before it replaces you?"
+New Ideas that AI can't do for you
 
 ## Acknowledgments
 
